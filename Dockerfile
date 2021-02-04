@@ -1,4 +1,3 @@
-
 FROM openshift/nodejs-010-centos7
 
 MAINTAINER Diakite Ousmane "odiakite229@gmail.com"
